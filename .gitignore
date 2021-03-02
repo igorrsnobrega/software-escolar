@@ -1,0 +1,15 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+public/img/qr_code/97e014d18c4312ff771ee43ee7178c23.png
+public/img/qr_code/969ea9df920e72f41fde4a7c6c592eaa.png

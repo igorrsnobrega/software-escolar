@@ -1,0 +1,14 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class ParametroValor extends Model
+{
+    use HasFactory;
+
+    protected $table = 'parametros_valor';
+    protected $primaryKey = 'pv_id';
+}
